@@ -1,0 +1,10 @@
+nx = -0.71
+ny = 0.71
+nz = 0
+ay = 0
+ax = 0
+oy = -0.71
+ox = -0.71
+tetaA = atan2d(ny,nx)
+tetaN = atan2d((-ay*cosd(tetaA) + ax*sind(tetaA)) , (oy*cosd(tetaA)-ox*sind(tetaA)))
+tetaO = atan2d((-nz),(nx*cosd(35) + ny*sind(tetaA)))

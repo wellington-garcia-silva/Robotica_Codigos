@@ -1,0 +1,6 @@
+clear;clc;
+A = rotx(30)
+B = rotz(30)
+C = roty(30)
+
+D = A*B*C

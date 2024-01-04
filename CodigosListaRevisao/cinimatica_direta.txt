@@ -1,0 +1,5 @@
+Os valores de cinemática direta referem-se aos dados que descrevem a posição, orientação, velocidade e aceleração de um robô ou sistema mecânico em relação ao seu ponto de referência inicial. Na robótica e na engenharia, a cinemática direta é usada para calcular a posição final ou o estado de um sistema com base em suas características físicas e nos movimentos realizados.
+
+Por exemplo, se você conhece as dimensões e os ângulos das articulações de um braço robótico, a cinemática direta permite determinar a posição exata da extremidade do braço (ponta) após cada movimento de suas articulações.
+
+Os valores de cinemática direta são fundamentais para o controle preciso de robôs e sistemas mecânicos, pois ajudam a prever onde estarão localizados ou como se moverão com base nos comandos fornecidos.
